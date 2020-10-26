@@ -1,0 +1,7 @@
+## Interface: 90001
+## Title: AutoZone
+## Version: 1.0.0
+## Notes: Automatically changes world map to new zone when crossing over from previous zone.
+## Author: Furyus, Furyus__, FuryusSvetlo, FuryusSvětlo, Furyus_Svetlo, Furyus_Světlo
+## X-Email: FuryusSvetlo@gmail.com
+AutoZone.lua
