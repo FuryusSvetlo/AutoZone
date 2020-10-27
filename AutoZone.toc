@@ -1,4 +1,9 @@
+#@retail@
 ## Interface: 90001
+#@end-retail@
+#@classic@
+# ## Interface: 11305
+#@end-classic@
 ## Title: AutoZone
 ## Version: 1.0.0
 ## Notes: Automatically changes world map to new zone when crossing over from previous zone.
