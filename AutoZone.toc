@@ -1,8 +1,8 @@
 #@retail@
-## Interface: 90005
+## Interface: 90001
 #@end-retail@
 #@classic@
-# ## Interface: 11306
+# ## Interface: 11305
 #@end-classic@
 ## Title: AutoZone
 ## Version: 1.0.0
